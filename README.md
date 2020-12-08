@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Hayman</h1>  
-<h3 align="center">Building a better future through integrated technological solutions. Tackling the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</h3>  
+<p align="left">Building a better future through integrated technological solutions. Tackling the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
   
 - 🔭 I’m currently working on [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown)  
   
