@@ -1,4 +1,4 @@
-<p align="left">Building a better future through integrated technological solutions. Tackling the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
+<p align="left">Building a better future through integrated technologies. Solving the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
   
 - I’m currently working on [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown) 🔭
   
