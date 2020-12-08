@@ -1,16 +1,16 @@
 <p align="left">Building a better future through integrated technological solutions. Tackling the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
   
-- 🔭 I’m currently working on [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown)  
+- I’m currently working on [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown) 🔭
   
-- 🌱 I’m currently learning **Reinforcement Learning**  
+- I’m currently learning **Reinforcement Learning** 🌱
   
-- 👨‍💻 All of my projects and posts are available at [hayman.tech](hayman.tech)  
+- All of my projects and posts are available at [hayman.tech](hayman.tech) 👨‍💻
   
-- 💬 Ask me about **Climate change, policy, and development**  
+- Ask me about **Climate change, policy, and development** 💬
   
-- 📫 How to reach me **mdghayman@gmail.com**  
+- How to reach me **mdghayman@gmail.com** 📫
   
-- ⚡ Fun fact **I used to be a sommelier.**  
+- Fun fact **I used to be a sommelier.** ⚡
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
