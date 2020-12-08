@@ -10,8 +10,8 @@
   
 - How to reach me: **mdghayman@gmail.com** 📫
   
-- Fun fact: **I used to be a sommelier.** ⚡
-  
+- Fun fact: **I used to be a sommelier.** 🍷
+
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/michael-hayman-uk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-hayman-uk" height="30" width="40" /></a>  
