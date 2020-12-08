@@ -4,7 +4,7 @@
   
 - I’m currently learning **Reinforcement Learning** 🌱
   
-- All of my projects and posts are available at [hayman.tech](hayman.tech) 👨‍💻
+- All of my projects and posts are available at [hayman.tech](https://hayman.tech) 👨‍💻
   
 - Ask me about **Climate change, policy, and development** 💬
   
