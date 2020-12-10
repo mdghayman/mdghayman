@@ -10,7 +10,7 @@
 
 - Ask me about: **Climate change, policy, and development** 💬
 
-- Fun fact: **I used to be a sommelier.** 🍷
+- Fun fact: **I used to be a sommelier** 🍷
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
