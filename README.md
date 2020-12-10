@@ -4,7 +4,7 @@
 
 - All of my projects and posts are available at: [hayman.tech](https://hayman.tech) 👨‍💻
 
-- Know about my experiences [Curriculum Vitae](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄
+- Learn about my experiences: [Curriculum Vitae](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄
 
 - I’m currently learning: **Reinforcement Learning** 🌱
 
