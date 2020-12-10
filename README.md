@@ -7,9 +7,9 @@
 - All of my projects and posts are available at: [hayman.tech](https://hayman.tech) 👨‍💻
   
 - Ask me about: **Climate change, policy, and development** 💬
-  
-- How to reach me: **mdghayman@gmail.com** 📫
-  
+
+- 📄 Know about my experiences [https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf)
+
 - Fun fact: **I used to be a sommelier.** 🍷
 
 <h3 align="left">Connect with me:</h3>  
