@@ -8,7 +8,7 @@
   
 - Ask me about: **Climate change, policy, and development** 💬
 
-- 📄 Know about my experiences [https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf)
+- Know about my experiences [Michael Hayman CD Dec 2020](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄
 
 - Fun fact: **I used to be a sommelier.** 🍷
 
