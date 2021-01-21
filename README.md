@@ -12,13 +12,7 @@
 
 - Fun fact: **I used to be a sommelier** 🍷
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/michael-hayman-uk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-hayman-uk" height="30" width="40" /></a>  
-<a href="https://kaggle.com/michaelhayman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="michaelhayman" height="30" width="40" /></a>  
-<a href="https://instagram.com/mdghayman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mdghayman" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/mdghayman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mdghayman" height="30" width="40" /></a>  
-</p>  
+- Connect with me: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 
   
 <h3 align="left">Languages and Tools:</h3>
 <b>Python | Tensorflow | Sklearn | SQLite | Google Cloud Platform</b>
