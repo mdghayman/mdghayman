@@ -12,7 +12,7 @@
 
 - Fun fact: **I used to be a sommelier** 🍷
 
-- Connect with me: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 
+- Connect with me here: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 
   
 <h3 align="left">Languages and Tools:</h3>
 <b>Python | Tensorflow | Sklearn | SQLite | Google Cloud Platform</b>
