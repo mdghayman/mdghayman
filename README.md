@@ -21,4 +21,4 @@
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>
-**Python | Tensorflow | Sklearn | SQLite | Google Cloud Platform**
+<b>Python | Tensorflow | Sklearn | SQLite | Google Cloud Platform</b>
