@@ -15,4 +15,8 @@
 - Connect with me here: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 👋
 
 <h3 align="left">Languages and Tools:</h3>
-<b>Python | Tensorflow | Sklearn | SQLite | Google Cloud Platform</b>
+<b>Languages:</b> Python | SQL | Zsh/Bash/Shell | HTML | CSS
+<b>Libraries:<b/> Tensorflow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow
+<b>Web devevelopment frameworks:<b/> Wordpress | Flask | Heroku | Streamlit
+<b/>Google Cloud Platform</b>
+<b>Git and Github<b/>
