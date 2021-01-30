@@ -16,11 +16,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<b>Languages:</b> Python | SQL | Zsh/Bash/Shell | HTML | CSS
+<b>Languages</b>
+Python | SQL | Zsh/Bash/Shell | HTML | CSS
 
-<b>Libraries:<b/> Tensorflow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow
+<b>Libraries<b/>
+Tensorflow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow
   
-<b>Web devevelopment frameworks:<b/> Wordpress | Flask | Heroku | Streamlit
+<b>Web devevelopment frameworks<b/>
+Wordpress | Flask | Heroku | Streamlit
   
 <b/>Google Cloud Platform</b>
 
