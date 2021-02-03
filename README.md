@@ -6,9 +6,9 @@
 
 - I’m currently working on: [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown) 🔭
 
-- I’m currently learning: **Reinforcement Learning** 🌱
+- I’m currently learning: **Reinforcement Learning** 👾
 
-- Ask me about: **Climate change, policy, and development** 💬
+- Ask me about: **Climate change, policy, and development** 🌱
 
 - Fun fact: **I used to be a sommelier** 🍷
 
