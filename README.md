@@ -14,4 +14,4 @@
 - Connect with me here: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 👋
 
 <h3 align="left">Languages:</h3>
-Python | SQL | Zsh | HTML | CSS
+Python | SQL | HTML | CSS | Zsh
