@@ -4,8 +4,7 @@
 
 - Learn about my experiences: [Curriculum Vitae](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄
 
-- I’m currently working on: [LockdownLowdown](https://github.com/mdghayman/LockdownLowdown) 🔭
-
+- I’m currently working on: [LockdownLowdown](https://github.com/mdghayman/Scarecrow) 👨‍🌾
 - I’m currently learning: **Reinforcement Learning** 👾
 
 - Ask me about: **Climate change, policy, and development** 🌱
