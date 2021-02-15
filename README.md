@@ -11,7 +11,7 @@
 
 <h3 align="left">What I know best:</h3>
 <ul>
-<li> <b>Python</b> ( TensorFlow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow ) </li>
+<li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
 <li> <b>SQL</b> ( PostgreSQL | SQLite ) </li>
 <li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Streamlit | Heroku ) </li>
 </ul>
