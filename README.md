@@ -11,15 +11,15 @@
 
 <h3 align="left">What I know best:</h3>
 <ul>
-<li> Python ( TensorFlow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow ) </li>
-<li> SQL ( PostgreSQL | SQLite ) </li>
-<li> Web dev frontend ( HTML | CSS | Wordpress | Heroku | Streamlit ) </li>
+<li> <b>Python</b> ( TensorFlow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow ) </li>
+<li> <b>SQL</b> ( PostgreSQL | SQLite ) </li>
+<li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Heroku | Streamlit ) </li>
 </ul>
 
 <h3 align="left">What I've been learning this year:</h3>
 <ul>
-<li> C </li>
-<li> Zsh shell scripting </li>
-<li> Data engineering ( Amazon Redshift | Google Big Query ) </li>
-<li> Web dev backend ( Flask | HTTP ) </li>
+<li> <b>C</b> </li>
+<li> <b>Zsh shell scripting</b> </li>
+<li> <b>Data engineering</b> ( Amazon Redshift | Google Big Query ) </li>
+<li> <b>Web dev backend</b> ( Flask | HTTP ) </li>
 </ul>
