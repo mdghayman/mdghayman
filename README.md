@@ -13,7 +13,7 @@
 <ul>
 <li> <b>Python</b> ( TensorFlow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow ) </li>
 <li> <b>SQL</b> ( PostgreSQL | SQLite ) </li>
-<li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Heroku | Streamlit ) </li>
+<li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Streamlit | Heroku ) </li>
 </ul>
 
 <h3 align="left">What I've been learning this year:</h3>
