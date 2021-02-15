@@ -12,7 +12,7 @@
 <h3 align="left">What I know best:</h3>
 <ul>
 <li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
-<li> <b>SQL</b> ( PostgreSQL | SQLite ) </li>
+<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google Big Query ) </li>
 <li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Streamlit | Heroku ) </li>
 </ul>
 
@@ -20,6 +20,5 @@
 <ul>
 <li> <b>C</b> </li>
 <li> <b>Zsh shell scripting</b> </li>
-<li> <b>Data engineering</b> ( Amazon Redshift | Google Big Query ) </li>
 <li> <b>Web dev backend</b> ( HTTP | Flask ) </li>
 </ul>
