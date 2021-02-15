@@ -5,7 +5,7 @@
 <li> Learn about my experiences: <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
 <li> I’m currently working on: <a href="https://github.com/mdghayman/Scarecrow">Scarecrow</a> 👨‍🌾 </li>
 <li> Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
-<li> Fun fact: **I used to be a sommelier** 🍷 </li>
+<li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 <li> Connect with me here: <a href="https://linkedin.com/in/michael-hayman-uk">LinkedIn</a> 👋 </li>
 </ul>
 
