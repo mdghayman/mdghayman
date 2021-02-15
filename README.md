@@ -1,11 +1,11 @@
 <p align="left">Building a better future through integrated technologies. Solving the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
 
 <li> All of my projects and posts are available at: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
-<li> Learn about my experiences: [CV](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄 </li>
-<li> I’m currently working on: [Scarecrow](https://github.com/mdghayman/Scarecrow) 👨‍🌾 </li>
+<li> Learn about my experiences: <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
+<li> I’m currently working on: <a href="https://github.com/mdghayman/Scarecrow">Scarecrow</a> 👨‍🌾 </li>
 <li> Ask me about: **Climate change, policy, and development** 🌱 </li>
 <li> Fun fact: **I used to be a sommelier** 🍷 </li>
-<li> Connect with me here: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 👋 </li>
+<li> Connect with me here: <a href="https://linkedin.com/in/michael-hayman-uk">LinkedIn</a> 👋 </li>
 
 <h3 align="left">What I know best:</h3>
 <li> Python ( TensorFlow | Keras | Sklearn | Statsmodels | Pandas | Numpy | Seaborn | Matplotlib | BeautifulSoup | MLflow ) </li>
