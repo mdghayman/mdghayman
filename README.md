@@ -3,7 +3,7 @@
 - All of my projects and posts are available at: [hayman.tech](https://hayman.tech) 👨‍💻
 - Learn about my experiences: [Curriculum Vitae](https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf) 📄
 - I’m currently working on: [Scarecrow](https://github.com/mdghayman/Scarecrow) 👨‍🌾
-- I’m currently learning: **Reinforcement Learning** 👾
+- I’m currently learning: **C** 👾
 - Ask me about: **Climate change, policy, and development** 🌱
 - Fun fact: **I used to be a sommelier** 🍷
 - Connect with me here: [LinkedIn](https://linkedin.com/in/michael-hayman-uk) 👋
