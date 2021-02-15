@@ -21,5 +21,5 @@
 <li> <b>C</b> </li>
 <li> <b>Zsh shell scripting</b> </li>
 <li> <b>Data engineering</b> ( Amazon Redshift | Google Big Query ) </li>
-<li> <b>Web dev backend</b> ( Flask | HTTP ) </li>
+<li> <b>Web dev backend</b> ( HTTP | Flask ) </li>
 </ul>
