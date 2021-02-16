@@ -13,12 +13,5 @@
 <ul>
 <li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
 <li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google Big Query ) </li>
-<li> <b>Web dev frontend</b> ( HTML | CSS | Wordpress | Streamlit | Heroku ) </li>
-</ul>
-
-<h3 align="left">What I've been learning this year:</h3>
-<ul>
-<li> <b>Zsh shell scripting</b> </li>
-<li> <b>JavaScript</b> </li>
-<li> <b>Web dev backend</b> ( HTTP | Flask ) </li>
+<li> <b>Web development</b> ( HTML | CSS | Wordpress | Flask | Streamlit ) </li>
 </ul>
