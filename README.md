@@ -1,5 +1,11 @@
-<p align="left">Building a better future through integrated technologies. Solving the world's most pressing and fascinating problems with an evolving toolset. Developing and maintaining models and platforms for innovative machine learning, deep learning, and artificial intelligence.</p>  
+<h3 align="left">What I know best:</h3>
+<ul>
+<li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
+<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google Big Query ) </li>
+<li> <b>Web development</b> ( HTML | CSS | Wordpress | Flask | Streamlit ) </li>
+</ul>
 
+<h3 align="left">Key points:</h3>
 <ul>
 <li> All of my projects and posts are available at: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
 <li> Learn about my experiences: <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
@@ -9,9 +15,4 @@
 <li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 </ul>
 
-<h3 align="left">What I know best:</h3>
-<ul>
-<li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
-<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google Big Query ) </li>
-<li> <b>Web development</b> ( HTML | CSS | Wordpress | Flask | Streamlit ) </li>
-</ul>
+
