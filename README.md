@@ -14,9 +14,9 @@
   </ul>
 </li>
 <li> My personal website: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
-<li> My CV: <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
-<li> Connect with me here: <a href="https://linkedin.com/in/michael-hayman-uk">LinkedIn</a> 👋 </li>
-<li>  Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
+<li> <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
+<li> <a href="https://linkedin.com/in/michael-hayman-uk">LinkedIn</a> 👋 </li>
+<li> Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
 <li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 </ul>
 
