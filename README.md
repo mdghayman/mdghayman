@@ -1,7 +1,7 @@
 <h3 align="left">What I know best:</h3>
 <ul>
 <li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
-<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google Big Query ) </li>
+<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google BigQuery ) </li>
 <li> <b>Web development</b> ( HTML | CSS | Wordpress | Flask | Streamlit ) </li>
 </ul>
 
