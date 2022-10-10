@@ -11,7 +11,7 @@
 </li>
 <li> My personal website: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
 <li> <a href="https://bigdata416011915.files.wordpress.com/2020/12/michaelhaymancv201210.pdf">CV</a> 📄 </li>
-<li> <a href="https://linkedin.com/in/michael-hayman-uk">LinkedIn</a> 👋 </li>
+<li> <a href="https://www.linkedin.com/in/mdghayman/">LinkedIn</a> 👋 </li>
 <li> Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
 <li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 </ul>
