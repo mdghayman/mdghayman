@@ -1,14 +1,10 @@
 <h3 align="left">What I know best:</h3>
 <ul>
-<li> <b>Python</b> ( TensorFlow | Sklearn | Pandas | Matplotlib | BeautifulSoup ) </li>
-<li> <b>SQL</b> ( PostgreSQL | SQLite | Amazon Redshift | Google BigQuery ) </li>
-<li> <b>Web development</b> ( HTML | CSS | Wordpress | Flask | Streamlit ) </li>
-</ul>
-
-<h3 align="left">Current projects:</h3>
-<ul>
-<li> <a href="https://github.com/mdghayman/SLL">SLL: Native machine learning in SQL</a> 👾 </li>
-<li> <a href="https://github.com/mdghayman/Scarecrow">Scarecrow: Low code web development for data science</a> 👨‍🌾 </li>
+<li> <b>[1] Languages</b> (Python | SQL | NoSQL| Shell/Bash/Zsh | HTML/CSS); </li>
+<li> <b>[2] Cloud</b> (GCP | AWS | Linux | Git/GitHub/GitLab | Jupyter); </li>
+<li> <b>[3] Machine Learning</b> (Sklearn | TensorFlow/Keras | Statsmodels | UMAP | XGBoost); </li>
+<li> <b>[4] Data Analysis</b> (Pandas | NumPy | Beam | Matplotlib/Seaborn | Excel); </li>
+<li> <b>[5] Development</b> (MLOps | CI/CD | Django | Flask | REST APIs).</li>
 </ul>
 
 <h3 align="left">More about me:</h3>
@@ -19,5 +15,3 @@
 <li> Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
 <li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 </ul>
-
-
