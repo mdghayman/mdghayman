@@ -1,10 +1,13 @@
 <h3 align="left">What I know best:</h3>
 <ul>
-<li> <b>[1] Languages</b> (Python | SQL | NoSQL | Shell/Bash/Zsh | HTML/CSS); </li>
-<li> <b>[2] Cloud</b> (GCP | AWS | Linux | Git/GitHub/GitLab | Jupyter); </li>
-<li> <b>[3] Machine Learning</b> (Sklearn | TensorFlow/Keras | Statsmodels | UMAP | XGBoost); </li>
-<li> <b>[4] Data Analysis</b> (Pandas | NumPy | Beam | Matplotlib/Seaborn | Excel); </li>
-<li> <b>[5] Development</b> (Flask | Django | REST APIs | CI/CD | MLOps).</li>
+<li> <b>[1] Languages ( Python | SQL | Shell | HTML | CSS ). </li>
+<li> <b>[2] Cloud ( AWS | GCP | Azure | Git | Jupyter ). </li>
+<li> <b>[3] MLOps ( Linux | Docker | Kubernetes | Terraform | Jenkins ). </li>
+<li> <b>[4] Machine Learning ( TensorFlow | PyTorch | Sklearn | Gymnasium | XGBoost ). </li>
+<li> <b>[6] NLP / LLMs ( GPT | Llama | LlamaIndex | LangChain | spaCy ). </li>
+<li> <b>[7] OCR ( Tesseract | Textract | EasyOCR | TrOCR | KerasOCR ). </li>
+<li> <b>[8] Data Analysis ( Pandas | NumPy | Matplotlib | Streamlit | Excel ). </li>
+<li> <b>[9] Development ( Flask | Django | Heroku | PostgreSQL | MongoDB ). </li>
 </ul>
 
 <h3 align="left">More about me:</h3>
