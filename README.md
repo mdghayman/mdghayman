@@ -12,8 +12,8 @@
 
 <h3 align="left">More about me:</h3>
 </li>
-<li> My personal website: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
-<li> <a href="https://www.linkedin.com/in/mdghayman/">LinkedIn</a> 👋 </li>
+<li> LinkedIn profile: <a href="https://www.linkedin.com/in/mdghayman/">LinkedIn</a> 👋 </li>
+<li> Personal website: <a href="https://hayman.tech">hayman.tech</a> 👨‍💻 </li>
 <li> Ask me about: <b>Climate change, policy, and development</b> 🌱 </li>
 <li> Fun fact: <b>I used to be a sommelier</b> 🍷 </li>
 </ul>
